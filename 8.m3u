@@ -60,6 +60,57 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1014056279.m3u8
 #EXTINF:-1,juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
+#EXTINF:-1, golden
+http://45.5.119.202:8000/play/a00n/index.m3u8
+
+#EXTINF:-1, sony
+http://45.5.119.202:8000/play/a01g/index.m3u8
+
+#EXTINF:-1, space
+http://45.5.119.202:8000/play/a02b/index.m3u8
+
+#EXTINF:-1,universal comedy
+http://45.5.119.202:8000/play/a00r/index.m3u8
+
+#EXTINF:-1,universal p
+http://45.5.119.202:8000/play/a027/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE 
+http://45.5.119.202:8000/play/a027/index.m3u8
+
+#EXTINF:-1,UNIVERSAL
+http://45.5.119.202:8000/play/a01u/index.m3u8
+
+#EXTINF:-1,amc
+http://45.5.119.202:8000/play/a02w/index.m3u8
+
+#EXTINF:-1,cinemax
+http://45.5.119.202:8000/play/a01y/index.m3u8
+
+#EXTINF:-1,HBO
+http://45.5.119.202:8000/play/a021/index.m3u8
+
+#EXTINF:-1,HBO
+http://45.5.119.202:8000/play/a022/index.m3u8
+
+#EXTINF:-1,HBO
+http://45.5.119.202:8000/play/a023/index.m3u8
+
+#EXTINF:-1,HBO
+http://45.5.119.202:8000/play/a024/index.m3u8
+
+#EXTINF:-1,HBO
+http://45.5.119.202:8000/play/a025/index.m3u8
+
+#EXTINF:-1,FX
+http://45.5.119.202:8000/play/a00a/index.m3u8
+
+#EXTINF:-1,Tru TV
+http://45.5.119.202:8000/play/a02j/index.m3u8
+
+
+
+
+
 
 
 
