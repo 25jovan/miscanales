@@ -48,9 +48,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1, sony
-http://8.242.179.184:58002/play/a03n/index.m3u8
+http://45.160.15.130:8111/play/085
 #EXTINF:-1, space
-http://8.242.179.184:58002/play/a04b/index.m3u8
+http://45.160.15.130:8111/play/119
 #EXTINF:-1, paramount
 http://8.242.179.183:58001/play/a015/index.m3u8
 
@@ -58,19 +58,19 @@ http://8.242.179.183:58001/play/a015/index.m3u8
 http://8.242.179.183:58001/play/a00b/index.m3u8
 
 #EXTINF:-1, hbo
-http://8.242.179.183:58001/play/a00s/index.m3u8
+http://8.242.178.183:58001/play/a00s/index.m3u8
 
 #EXTINF:-1,hbo 2
-http://8.242.179.183:58001/play/a00t/index.m3u8
+http://8.242.178.183:58001/play/a00t/index.m3u8
 
 #EXTINF:-1,hbo family
 http://8.242.179.183:58001/play/a00v/index.m3u8
 
 #EXTINF:-1,hbo plus
-http://8.242.179.183:58001/play/a00u/index.m3u8
+http://8.242.178.183:58001/play/a00u/index.m3u8
 
 #EXTINF:-1, hbo xtreme
-http://8.242.179.183:58001/play/a00w/index.m3u8
+http://8.242.178.183:58001/play/a00w/index.m3u8
 
 #EXTINF:-1,amc
 http://8.242.179.183:58001/play/a00b/index.m3u8
