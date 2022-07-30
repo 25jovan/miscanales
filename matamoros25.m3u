@@ -86,10 +86,11 @@ http://190.108.87.149:8000/play/a0d9/index.m3u8
 http://190.108.87.149:8000/play/a0d8/index.m3u8
 
 #EXTINF:-1, HBO SIGNATURE
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_SIGNATURE/index.m3u8
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_POP/index.m3u8
 
 #EXTINF:-1, hbo xtreme
-http://190.108.87.149:8000/play/a00b/index.m3u8
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_XTREME/index.m3u8
+
 
 #EXTINF:-1,cinemax
 http://45.160.15.130:8111/play/112
