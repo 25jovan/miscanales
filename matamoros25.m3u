@@ -3,10 +3,10 @@
 #EXTINF:-1, el chavo
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1, distrito comedy
-http://regioplay.xyz/php/SR_REGIO_037022/tv1.php?c=47&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=47&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/estrella.png" group-title="Entretenimiento",Estrella TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
@@ -15,7 +15,7 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F5pfMG7.png" group-title="Entretenimiento",Telemundo
-http://regioplay.xyz/php/SR_REGIO_037022/tv1.php?c=271&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_037022_/tv1.php?c=271&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQ2I6tI.png" group-title="Entretenimiento",Unimas
 https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8
