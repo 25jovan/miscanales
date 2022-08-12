@@ -2,8 +2,6 @@
 
 #EXTINF:-1, el chavo
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1, distrito comedy
-http://ecuaplaytv.xyz:8000/cali/cali/150590
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZmundo
 http://45.171.66.198:8082/play/a006
 
@@ -13,9 +11,6 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F5pfMG7.png" group-title="Entretenimiento",Telemundo
 http://45.160.15.130:8111/play/149
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ReUIIpM.png" group-title="Entretenimiento",Univision
-http://ecuaplaytv.xyz:8000/cali/cali/2382
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="Cine", horrorify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
@@ -24,9 +19,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpv1LdI.png" group-title="Cine",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/telexitos.png" group-title="MÃºsica",TeleXitos (Opt-2)
-https://v-pi.theus6tv.tk/hls/62.2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -56,7 +48,7 @@ http://190.108.87.149:8000/play/a0d6/index.m3u8
 http://190.108.87.149:8000/play/a0d7/index.m3u8
 
 #EXTINF:-1, sony movies
-http://clubtv.link/agos8/agosto9/lista1.php?c=a0qc&f=.m3u8
+http://clubtv.link/10agos/agosto10/lista2.php?c=a0qc&f=.m3u8
 #EXTINF:-1, studio u
 http://45.160.15.130:8111/play/098
 #EXTINF:-1,hbo family
